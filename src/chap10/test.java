@@ -1,0 +1,11 @@
+package chap10;
+
+public class test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("테스트 일까요 아닐까요");
+
+	}
+
+}
